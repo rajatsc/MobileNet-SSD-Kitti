@@ -1,0 +1,7 @@
+#exclude everything
+datasets/*
+android_client/assets/*
+models/*
+results/*
+saved/*
+android_client/gradleBuild/*

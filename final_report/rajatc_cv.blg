@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: rajatc_cv.aux
+The style file: plain.bst
+Database file #1: refs_cv.bib
+You've used 11 entries,
+            2118 wiz_defined-function locations,
+            557 strings with 6486 characters,
+and the built_in function-call counts, 5248 in all, are:
+= -- 504
+> -- 313
+< -- 7
++ -- 124
+- -- 112
+* -- 373
+:= -- 833
+add.period$ -- 36
+call.type$ -- 11
+change.case$ -- 87
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 201
+empty$ -- 361
+format.name$ -- 112
+if$ -- 1123
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 11
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 108
+preamble$ -- 1
+purify$ -- 76
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 285
+swap$ -- 79
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 0
+while$ -- 43
+width$ -- 13
+write$ -- 123

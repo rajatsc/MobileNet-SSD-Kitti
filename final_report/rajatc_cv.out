@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Object Detection Pipeline}{}% 2
+\BOOKMARK [1][-]{section.3}{How Good is your Detection algorithm ?}{}% 3
+\BOOKMARK [1][-]{section.4}{The Mobilenet-SSD Architecture}{}% 4
+\BOOKMARK [1][-]{section.5}{KITTI Dataset}{}% 5
+\BOOKMARK [1][-]{section.6}{Transfer Learning}{}% 6
+\BOOKMARK [2][-]{subsection.6.1}{Loss function}{section.6}% 7
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Localization loss}{subsection.6.1}% 8
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Classification loss\(or Confidence loss\)}{subsection.6.1}% 9
+\BOOKMARK [2][-]{subsection.6.2}{Training}{section.6}% 10
+\BOOKMARK [1][-]{section.7}{Results and Discussions}{}% 11
+\BOOKMARK [2][-]{subsection.7.1}{Android Implementation and Benchmarking}{section.7}% 12
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 13
